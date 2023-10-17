@@ -1,0 +1,5 @@
+/workspaces/Mathematics/CAM/obj/Debug/net7.0/CAM.csproj.AssemblyReference.cache
+/workspaces/Mathematics/CAM/obj/Debug/net7.0/CAM.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Mathematics/CAM/obj/Debug/net7.0/CAM.AssemblyInfoInputs.cache
+/workspaces/Mathematics/CAM/obj/Debug/net7.0/CAM.AssemblyInfo.cs
+/workspaces/Mathematics/CAM/obj/Debug/net7.0/CAM.csproj.CoreCompileInputs.cache

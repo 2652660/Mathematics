@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8aoUgLECpLjL/hOBYUUyTlr95S5oxoHHktWE0qxDCMg2mGRBkfHoVywF9BiKnZm1EASgL7qlM2HsCL4N7AjdA==",
+  "success": true,
+  "projectFilePath": "/workspaces/Mathematics/CAM/CAM.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/7.0.9/runtime.linux-x64.microsoft.dotnet.ilcompiler.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
