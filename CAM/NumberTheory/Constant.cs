@@ -12,5 +12,10 @@
     public bool Sum { get; set; } = false;
     public bool Product { get; set; } = false;
     public bool Quotient { get; set; } = false;
+
+    public Constant(BigInteger value)
+    {
+      this.Value = value;
+    }
   }
 }

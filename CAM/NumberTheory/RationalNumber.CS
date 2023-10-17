@@ -66,7 +66,7 @@
 
     public static RationalNumber operator ! ( RationalNumber a )
     {
-      return new RationalNumber ( a . Numerator / 1 , a . Denominator / 1 );
+      return new RationalNumber ( a . Denominator , a . Numerator );
     }
 
     public static RationalNumber operator - ( RationalNumber a )
